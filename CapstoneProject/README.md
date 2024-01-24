@@ -10,7 +10,7 @@ the repository consists of following series of contents.
 ### Business Statement
 ------
 **Business Problem:** What is the problem?  Why is it a problem?
->  Home Credit is the company dedicated to provided lines of credit (loans) to the unbanked population who has a high risk of default. Loan 
+>  [Home Credit](https://www.homecredit.net/) is the company dedicated to provided lines of credit (loans) to the unbanked population who has a high risk of default. Loan 
 
 **Benefit of a solution**. How will the business benefit from a solution?
 > Building a prediction model to predict clients' repayment abilities  would result in a stable, controllable financial system for Home Credit to allocate the right amount of funds to right people, which result in healthier lifecycle for personal loaners who has unbanked history.
