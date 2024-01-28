@@ -1,5 +1,7 @@
-## Introduction
+# Home Credit Default Risk
 
+## Introduction
+------
 This repository contains **a predictive analytics project** hosted at Kaggle:
 [Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk/overview)
 
@@ -10,10 +12,10 @@ the repository consists of following series of contents.
 ### Business Statement
 ------
 **Business Problem:** What is the problem?  Why is it a problem?
->  Credit Loan is likely to evaluated mostly based on the banked history and credit usage. Unbanked population could not obtain credit hitory yet or has insufficient amount of credit history. [Home Credit](https://www.homecredit.net/) is the company dedicated to provided lines of credit (loans) to the unbanked population who has a high risk of default. 
+>  Loan payment ablities is most likely to asessed with the loaners' banked history and credit usage history. This causes Unbanked population who hasn't obtain credit hitory yet to prevent financial loan activities. [Home Credit](https://www.homecredit.net/) is the company dedicated to provided lines of credit (loans) to the unbanked population who has a high risk of default. 
 
 **Benefit of a solution**. How will the business benefit from a solution?
-> Building a solid repayment abilities prediction model leads to a stable, controllable financial system for Home Credit to identify people, which result in healthier lifecycle for personal loaners who hasn't the financial history yet.
+> Building prediction model leads to a stable & controllable financial system for Home Credit to identify credible candidates, which increases the number of personal loaners who hasn't the financial history yet. Also it would result in providing a positive and safe borrowing experience for underserved people.
 
 **Success Metrics.** How will stakeholders judge whether the project was a success?
 > Success Metrics are evaluated on area under the ROC curve (AUC) between the predicted probability and the observed target.
@@ -22,8 +24,8 @@ the repository consists of following series of contents.
 > This project makes use of supervised approach with classification model to predict which application has a repayment abilities based on the previous application histories. The target variable is encoded either 0 or 1, which indicates client with payment difficulties.
 
 **Scope:** What will be delivered and what will be out of scope? What might be added later?
-> In scope: 
-> Out of scope:
+> In scope: In this project, the list of applications which is capable of repayment will be given for the deliverables.
+> Out of scope: Hasn't identified yet.
 
 **Details:** Who is going to execute the project? When will the project be finished? Are there important project milestones?
 > [Richard Lim](https://www.linkedin.com/in/datarichard/) is going to excute this project as a capstone project. the project milestone (calendar) is listed as table below
