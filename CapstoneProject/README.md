@@ -11,7 +11,7 @@ the repository consists of following series of contents.
 
 - Busienss Statement
 
-### Business Statement
+## Business Statement
 
 **Business Problem:** What is the problem?  Why is it a problem?
 >  Loan payment ablities is most likely to asessed with the loaners' banked history and credit usage history. This causes Unbanked population who hasn't obtain credit hitory yet to prevent financial loan activities. [Home Credit](https://www.homecredit.net/) is the company dedicated to provided lines of credit (loans) to the unbanked population who has a high risk of default. 
