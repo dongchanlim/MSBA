@@ -1,5 +1,7 @@
 # Home Credit Default Risk
 
+![home credit](reports/figures/home credit logo.jpeg)
+
 ## Introduction
 
 This repository contains **a predictive analytics project** hosted at Kaggle:
