@@ -1,7 +1,7 @@
 # Home Credit Default Risk
 
-![home credit](CapstoneProject/reports/figures/home credit logo.jpeg)
-<img src="CapstoneProject/reports/figures/home credit logo.jpeg" width="128"/>
+![home credit](/CapstoneProject/reports/figures/home credit logo.jpeg)
+<img src="/CapstoneProject/reports/figures/home credit logo.jpeg" width="128"/>
 
 ## Introduction
 
