@@ -11,6 +11,7 @@ the repository consists of following series of contents.
 
 - Busienss Statement
 - Data Description
+- ERD (Entity Relation Diagram)
 
 ## Business Statement
 
@@ -85,3 +86,7 @@ One row is equivalent to one payment of one installment OR one installment corre
 **HomeCredit_columns_description.csv**
 
 This file contains descriptions for the columns in the various data files.
+
+## ERD (Entity Relation Diagram)
+
+<img src="/CapstoneProject/reports/figures/ERD.png" width="500"/>
