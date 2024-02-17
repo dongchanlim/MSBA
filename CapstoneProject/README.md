@@ -89,4 +89,4 @@ This file contains descriptions for the columns in the various data files.
 
 ## ERD (Entity Relation Diagram)
 
-<img src="/CapstoneProject/reports/figures/ERD.png" width="500"/>
+<img src="/CapstoneProject/reports/figures/ ERD.png" width="500"/>
