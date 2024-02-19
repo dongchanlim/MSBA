@@ -72,7 +72,7 @@ This table has one row for each month of history of every previous credit in Hom
 
 **previous_application.csv**
 
-All previous applications for Home Credit loans of clients who have loans in our sample.
+> All previous applications for Home Credit loans of clients who have loans in our sample.
 There is one row for each previous application related to loans in our data sample.
 
 **installments_payments.csv**
