@@ -15,7 +15,7 @@ The repository includes following series of contents.
 ## Business Statement
 
 **Business Problem:** What is the problem?  Why is it a problem?
->  Individual's repayment ablities tend to be assessed with his or her banked history and credit usage history mainly. This prevents unbanked population who hasn't obtain credit hitory yet from initiating financial loan activities. [Home Credit](https://www.homecredit.net/) is the company who is dedicated to provide lines of credit (loans) to the unbanked population.
+>  Individual's repayment capacities are likely to be assessed with his or her banked history & credit usage history. This situation prevents unbanked population who hasn't obtain credit hitory yet from initiating their financial loan activities. [Home Credit](https://www.homecredit.net/) is the company who is dedicated to provide lines of credit (loans) to the unbanked population.
 
 **Benefit of a solution**. How will the business benefit from a solution?
 > Building stable prediction model to identify credible candidates leads to a stable & controllable financial system for Home Credit, which increases the number of personal loaners who hasn't the financial history yet. Also it would result in providing a positive and safe borrowing experience for underserved people.
