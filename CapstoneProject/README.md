@@ -4,10 +4,9 @@
 
 ## Introduction
 
-This repository contains **a predictive analytics project** hosted at Kaggle:
+This repository contains **predictive analytics competition** hosted at Kaggle:
 [Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk/overview)
-
-the repository consists of following series of contents.
+The repository includes following series of contents.
 
 - Busienss Statement
 - Data Description
@@ -16,10 +15,10 @@ the repository consists of following series of contents.
 ## Business Statement
 
 **Business Problem:** What is the problem?  Why is it a problem?
->  Loan payment ablities is most likely to asessed with the loaners' banked history and credit usage history. This causes Unbanked population who hasn't obtain credit hitory yet to prevent financial loan activities. [Home Credit](https://www.homecredit.net/) is the company dedicated to provided lines of credit (loans) to the unbanked population who has a high risk of default. 
+>  Individual's repayment ablities tend to be assessed with his or her banked history and credit usage history mainly. This prevents unbanked population who hasn't obtain credit hitory yet from initiating financial loan activities. [Home Credit](https://www.homecredit.net/) is the company who is dedicated to provide lines of credit (loans) to the unbanked population.
 
 **Benefit of a solution**. How will the business benefit from a solution?
-> Building prediction model leads to a stable & controllable financial system for Home Credit to identify credible candidates, which increases the number of personal loaners who hasn't the financial history yet. Also it would result in providing a positive and safe borrowing experience for underserved people.
+> Building stable prediction model to identify credible candidates leads to a stable & controllable financial system for Home Credit, which increases the number of personal loaners who hasn't the financial history yet. Also it would result in providing a positive and safe borrowing experience for underserved people.
 
 **Success Metrics.** How will stakeholders judge whether the project was a success?
 > Success Metrics are evaluated on area under the ROC curve (AUC) between the predicted probability and the observed target.
