@@ -11,6 +11,9 @@ The repository includes following series of contents.
 - Busienss Statement
 - Data Description
 - ERD (Entity Relation Diagram)
+- Takeways from Project
+    - Difficulties
+    - Improvement & Recommendation
 
 ## Business Statement
 
