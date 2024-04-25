@@ -127,6 +127,16 @@ One row is equivalent to one payment of one installment OR one installment corre
 
 ### Assumption
 
+- One row represents one loan application in our data.
+- No economic depression or seasonal patterns exist in the data.
+- Clients defaulting harms the financial stability of Home Credit. 
+
 ### Difficulties & Limitations
 
+- 
+- 
+
 ### Improvement & Recommendation
+
+- 
+- 
