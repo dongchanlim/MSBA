@@ -12,7 +12,8 @@ The repository includes following series of contents.
 - Data Description
 - ERD (Entity Relation Diagram)
 - Takeways from Project
-    - Difficulties
+    - Assumptions
+    - Limitation & Difficulties
     - Improvement & Recommendation
 
 ## Business Statement
