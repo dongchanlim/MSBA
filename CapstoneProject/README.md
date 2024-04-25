@@ -102,15 +102,22 @@ One row is equivalent to one payment of one installment OR one installment corre
 
 - **Target Variable**: Highly imbalanced distribution between target variable. (92% vs 8%)
 
-<img src ="/CapstoneProject/reports/figures/target.png" width = "1000"/>
+<img src ="/CapstoneProject/reports/figures/target.png" width = "500"/>
 
 - **Univariate Analysis**: Discovered employment data anomalies reflecting tenure over 1000 years.
+
+
 - **Bivariate Analysis**: Among defaulted loans, 93% are cash loans, 70% do not have car ownership, 83% lack higher education, and 25% work as laborers.
 
 
 ## Modeling
 
-[Modeling Notebook]
+[Modeling Notebook](notebooks/Models/modeling.ipynb)
+
+<img src ="/CapstoneProject/reports/figures/modling 1.png" width = "500"/>
+<img src ="/CapstoneProject/reports/figures/modling 2.png" width = "500"/>
+
+
 
 ## Final Presentation
 
