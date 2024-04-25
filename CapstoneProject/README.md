@@ -100,6 +100,11 @@ One row is equivalent to one payment of one installment OR one installment corre
 
 [EDA Notebook]
 
+- **Target Variable**: Highly imbalanced distribution between target variable. (92% vs 8%)
+- **Univariate Analysis**: Discovered employment data anomalies reflecting tenure over 1000 years.
+- **Bivariate Analysis**: Among defaulted loans, 93% are cash loans, 70% do not have car ownership, 83% lack higher education, and 25% work as laborers.
+
+
 ## Modeling
 
 [Modeling Notebook]
