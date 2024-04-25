@@ -11,6 +11,7 @@ The repository includes following series of contents.
 - Busienss Statement
 - Data Description
 - ERD (Entity Relation Diagram)
+- Final Presentation
 - Takeways from Project
     - Assumptions
     - Limitation & Difficulties
@@ -91,3 +92,23 @@ One row is equivalent to one payment of one installment OR one installment corre
 ## ERD (Entity Relation Diagram)
 
 <img src="/CapstoneProject/reports/figures/ ERD.png" width="1000"/>
+
+## EDA
+
+[EDA Notebook]
+
+## Modeling
+
+[Modeling Notebook]
+
+## Final Presentation
+
+[Presentation Slides](https://docs.google.com/presentation/d/17kRmJPFf52FRPcKRbrFky9ByK_sRgah7M09jPqaFZ0s/edit?usp=sharing)
+
+## Takeways from Project
+
+### Assumption
+
+### Difficulties & Limitations
+
+### Improvement & Recommendation
