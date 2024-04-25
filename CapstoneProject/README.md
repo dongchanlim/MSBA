@@ -98,7 +98,7 @@ One row is equivalent to one payment of one installment OR one installment corre
 
 ## EDA
 
-[EDA Notebook](CapstoneProject/notebooks/EDA/EDA.ipynb)
+[EDA Notebook](notebooks/EDA/EDA.ipynb)
 
 - **Target Variable**: Highly imbalanced distribution between target variable. (92% vs 8%)
 - **Univariate Analysis**: Discovered employment data anomalies reflecting tenure over 1000 years.
