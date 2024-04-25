@@ -114,8 +114,8 @@ One row is equivalent to one payment of one installment OR one installment corre
 
 [Modeling Notebook](notebooks/Models/modeling.ipynb)
 
-<img src ="/CapstoneProject/reports/figures/modling 1.png" width = "500"/>
-<img src ="/CapstoneProject/reports/figures/modling 2.png" width = "500"/>
+<img src ="/CapstoneProject/reports/figures/modeling 1.png" width = "500"/>
+<img src ="/CapstoneProject/reports/figures/modeling 2.png" width = "500"/>
 
 
 
