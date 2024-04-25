@@ -6,6 +6,9 @@
 
 This repository contains **predictive analytics competition** hosted at Kaggle:
 [Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk/overview)
+
+
+## Table of Contents
 The repository includes following series of contents.
 
 - Busienss Statement
@@ -20,7 +23,7 @@ The repository includes following series of contents.
 ## Business Statement
 
 **Business Problem:** What is the problem?  Why is it a problem?
->  Individual's repayment capacities are likely to be assessed with his or her banked history & credit usage history. This situation prevents unbanked population who hasn't obtain credit hitory yet from initiating their financial loan activities. [Home Credit](https://www.homecredit.net/) is the company who is dedicated to provide lines of credit (loans) to the unbanked population.
+>  Most of individuals' payment capacities are likely to be assessed with his or her banked history & credit usage histories. This method prevents unbanked population who hasn't obtain credit hitory yet from starting or activating their financial loan activities. Therefore, [Home Credit](https://www.homecredit.net/) is the company who is dedicated to provide lines of credit (loans) to the unbanked population.
 
 **Benefit of a solution**. How will the business benefit from a solution?
 > Building stable prediction model to identify credible candidates leads to a stable & controllable financial system for Home Credit, which increases the number of personal loaners who hasn't the financial history yet. Also it would result in providing a positive and safe borrowing experience for underserved people.
@@ -36,7 +39,7 @@ The repository includes following series of contents.
 > Out of scope: Hasn't identified yet.
 
 **Details:** Who is going to execute the project? When will the project be finished? Are there important project milestones?
-> [Richard Lim](https://www.linkedin.com/in/datarichard/) is going to excute this project as a capstone project. the project milestone (calendar) is listed as table below
+> [Richard Lim](https://www.linkedin.com/in/datarichard/) is going to excute this project as a capstone project. the project milestone (calendar) is listed as table below.
 
 
 
