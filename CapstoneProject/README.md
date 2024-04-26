@@ -98,7 +98,7 @@ One row is equivalent to one payment of one installment OR one installment corre
 
 ## EDA
 
-[EDA Notebook](notebooks/EDA/EDA.ipynb)
+[EDA Notebook](notebooks/EDA/EDA.ipynb): The objective of EDA notebook is to explore the dataset application_{train|test}.csv, which contains the list of application informations which are capable of repayment or not.
 
 - **Target Variable**: Highly imbalanced distribution between target variable. (92% vs 8%)
 
