@@ -17,7 +17,7 @@ The repository includes following series of contents.
 - Final Presentation
 - Takeways from Project
     - Assumptions
-    - Limitation & Difficulties
+    - Analytic Findings & Business Actions
     - Improvement & Recommendation
 
 ## Business Statement
