@@ -131,12 +131,13 @@ One row is equivalent to one payment of one installment OR one installment corre
 - No economic depression or seasonal patterns exist in the data.
 - Clients defaulting harms the financial stability of Home Credit. 
 
-### Difficulties & Limitations
+### Analytic Findings & Business Actions
 
-- 
-- 
+- Individuals with longer period of social activities tend to exhibit better credit behavior than those with shorter period of time.
+- Among defaulted loans, 93% are cash loans, 70% do not have car ownership, 83% lack higher education, and 25% work as laborers.
 
 ### Improvement & Recommendation
 
-- 
-- 
+- Historical data helps improve the quality of decision somehow, even though preprocessing & cleansing must be preceded to make it a gold.
+- Deploying a model monitoring framework that utilizes machine learning operations (MLOps) to ensure models adapt over time, maintaining high accuracy and relevance in a changing market.
+- Home Credit has the opportunity to tailor loan offers and outreach strategies to appeal to low-risk customers, including individuals with higher education, homeownership, and a limited number of Credit Bureau inquiries within a year.
